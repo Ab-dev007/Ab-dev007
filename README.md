@@ -2,6 +2,8 @@
 
 **Software engineering · Machine learning · Competitive programming**
 
+[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-7823283b1/)
+
 I build language models from first principles and Python tools that make everyday workflows easier. My projects explore how models learn, how APIs fit together, and how to make implementations understandable and reproducible.
 
 I'm interested in software engineering opportunities in high-frequency trading and in AI/ML roles, with a focus on algorithms, efficient systems, and practical machine learning.
